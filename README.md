@@ -7,8 +7,8 @@ persons/<STREAMER>/youtube/VODs/<ISO-date>*ytv-<ID>*<sanitised-title>/
 ├─ vod.mp4
 ├─ chat.yt-vod.sqlite
 ├─ thumbnails/
-│  ├─ thumbnail\_main.jpg
-│  └─ thumbnail\_0001.jpg …
+│  ├─ thumbnails_main.jpg
+│  └─ thumbnails_0001.jpg …
 └─ metadata.yt-vod.json
 ````
 
